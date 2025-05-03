@@ -22,7 +22,7 @@ const projects = [
       "A full-featured ATS that streamlines the hiring workflow for employers with a five-stage candidate pipeline.",
     image: "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2070",
     technologies: ["Vue 3", "Tailwind CSS", "GraphQL", "REST API"],
-    link: "#",
+    link: "https://betterhr.io/",
     github: null,
     type: "job"
   },
@@ -32,7 +32,7 @@ const projects = [
       "A module enabling structured employee evaluations within an organisation with multi-round review capabilities.",
     image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070",
     technologies: ["Vue 3", "Nuxt.js", "Tailwind CSS", "GraphQL"],
-    link: "#",
+    link: "https://betterhr.io/",
     github: null,
     type: "job"
   },
@@ -56,21 +56,21 @@ const projects = [
     type: "job"
   },
   {
-    title: "E-commerce Platform",
-    description: "A full-stack e-commerce platform with features like product management, cart functionality, and payment integration.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=2070",
-    technologies: ["Vue.js", "Node.js", "MongoDB", "Stripe"],
-    link: "https://your-ecommerce-demo.com",
-    github: "https://github.com/yourusername/ecommerce",
+    title: "React Music Player",
+    description: "A modern music player built with React, featuring a sleek UI and essential music playback controls.",
+    image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=2070",
+    technologies: ["React", "Tailwind CSS", "Context API", "Custom Hooks"],
+    link: "https://react-music-player-sqxx.onrender.com/",
+    github: null,
     type: "github"
   },
   {
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates, user authentication, and team features.",
-    image: "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?q=80&w=2070",
-    technologies: ["React", "Firebase", "Material-UI", "Redux"],
-    link: "https://your-taskmanager-demo.com",
-    github: "https://github.com/yourusername/taskmanager",
+    title: "MERN Netflix Clone",
+    description: "A full-stack Netflix clone built with the MERN stack, featuring movie browsing, authentication, and more.",
+    image: "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?q=80&w=2070",
+    technologies: ["React", "Node.js", "Express", "MongoDB", "Redux"],
+    link: "https://mern-netflix-clone-09ob.onrender.com/",
+    github: null,
     type: "github"
   }
 ]
